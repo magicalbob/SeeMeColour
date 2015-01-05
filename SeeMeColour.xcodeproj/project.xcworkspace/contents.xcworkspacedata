@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:See Me Colour.xcodeproj">
+      location = "self:SeeMeColour.xcodeproj">
    </FileRef>
 </Workspace>

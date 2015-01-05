@@ -30,7 +30,7 @@
 		3C20A09D18C0E5880021F4C0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C20A07C18C0E5880021F4C0 /* Foundation.framework */; };
 		3C20A09E18C0E5880021F4C0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C20A08018C0E5880021F4C0 /* UIKit.framework */; };
 		3C20A0A618C0E5880021F4C0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3C20A0A418C0E5880021F4C0 /* InfoPlist.strings */; };
-		3C20A0A818C0E5880021F4C0 /* See_Me_ColourTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C20A0A718C0E5880021F4C0 /* See_Me_ColourTests.m */; };
+		3C20A0A818C0E5880021F4C0 /* SeeMeColourTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C20A0A718C0E5880021F4C0 /* SeeMeColourTests.m */; };
 		3C20A0B618C0E6AC0021F4C0 /* matchImages.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C20A0B518C0E6AC0021F4C0 /* matchImages.m */; };
 		3C20A0B918C0E82D0021F4C0 /* imageColourPair.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C20A0B818C0E82D0021F4C0 /* imageColourPair.m */; };
 		3C20A0BC18C0E9EF0021F4C0 /* image01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C20A0BB18C0E9EF0021F4C0 /* image01.jpg */; };
@@ -58,7 +58,7 @@
 			containerPortal = 3C20A07118C0E5870021F4C0 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 3C20A07818C0E5880021F4C0;
-			remoteInfo = "See Me Colour";
+			remoteInfo = "SeeMeColour";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -73,25 +73,25 @@
 		3C1FBF0F18C4C79500697273 /* success04.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = success04.mp3; sourceTree = "<group>"; };
 		3C1FBF1418C511F100697273 /* finalApplause.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = finalApplause.mp3; sourceTree = "<group>"; };
 		3C1FBF1618C549CD00697273 /* image06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image06.jpg; sourceTree = "<group>"; };
-		3C20A07918C0E5880021F4C0 /* See Me Colour.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "See Me Colour.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C20A07918C0E5880021F4C0 /* SeeMeColour.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SeeMeColour.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C20A07C18C0E5880021F4C0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3C20A07E18C0E5880021F4C0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		3C20A08018C0E5880021F4C0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		3C20A08418C0E5880021F4C0 /* See Me Colour-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "See Me Colour-Info.plist"; sourceTree = "<group>"; };
+		3C20A08418C0E5880021F4C0 /* SeeMeColour-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SeeMeColour-Info.plist"; sourceTree = "<group>"; };
 		3C20A08618C0E5880021F4C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3C20A08818C0E5880021F4C0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3C20A08A18C0E5880021F4C0 /* See Me Colour-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "See Me Colour-Prefix.pch"; sourceTree = "<group>"; };
+		3C20A08A18C0E5880021F4C0 /* SeeMeColour-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SeeMeColour-Prefix.pch"; sourceTree = "<group>"; };
 		3C20A08B18C0E5880021F4C0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3C20A08C18C0E5880021F4C0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		3C20A08F18C0E5880021F4C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3C20A09118C0E5880021F4C0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		3C20A09218C0E5880021F4C0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		3C20A09418C0E5880021F4C0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		3C20A09A18C0E5880021F4C0 /* See Me ColourTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "See Me ColourTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C20A09A18C0E5880021F4C0 /* SeeMeColourTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SeeMeColourTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C20A09B18C0E5880021F4C0 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		3C20A0A318C0E5880021F4C0 /* See Me ColourTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "See Me ColourTests-Info.plist"; sourceTree = "<group>"; };
+		3C20A0A318C0E5880021F4C0 /* SeeMeColourTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SeeMeColourTests-Info.plist"; sourceTree = "<group>"; };
 		3C20A0A518C0E5880021F4C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		3C20A0A718C0E5880021F4C0 /* See_Me_ColourTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = See_Me_ColourTests.m; sourceTree = "<group>"; };
+		3C20A0A718C0E5880021F4C0 /* SeeMeColourTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SeeMeColourTests.m; sourceTree = "<group>"; };
 		3C20A0B418C0E6AC0021F4C0 /* matchImages.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = matchImages.h; path = ../matchImages.h; sourceTree = "<group>"; };
 		3C20A0B518C0E6AC0021F4C0 /* matchImages.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = matchImages.m; path = ../matchImages.m; sourceTree = "<group>"; };
 		3C20A0B718C0E82D0021F4C0 /* imageColourPair.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = imageColourPair.h; sourceTree = "<group>"; };
@@ -158,8 +158,8 @@
 		3C20A07018C0E5870021F4C0 = {
 			isa = PBXGroup;
 			children = (
-				3C20A08218C0E5880021F4C0 /* See Me Colour */,
-				3C20A0A118C0E5880021F4C0 /* See Me ColourTests */,
+				3C20A08218C0E5880021F4C0 /* SeeMeColour */,
+				3C20A0A118C0E5880021F4C0 /* SeeMeColourTests */,
 				3C20A07B18C0E5880021F4C0 /* Frameworks */,
 				3C20A07A18C0E5880021F4C0 /* Products */,
 			);
@@ -168,8 +168,8 @@
 		3C20A07A18C0E5880021F4C0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3C20A07918C0E5880021F4C0 /* See Me Colour.app */,
-				3C20A09A18C0E5880021F4C0 /* See Me ColourTests.xctest */,
+				3C20A07918C0E5880021F4C0 /* SeeMeColour.app */,
+				3C20A09A18C0E5880021F4C0 /* SeeMeColourTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -185,7 +185,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		3C20A08218C0E5880021F4C0 /* See Me Colour */ = {
+		3C20A08218C0E5880021F4C0 /* SeeMeColour */ = {
 			isa = PBXGroup;
 			children = (
 				3C20A08B18C0E5880021F4C0 /* AppDelegate.h */,
@@ -200,7 +200,7 @@
 				3C20A09418C0E5880021F4C0 /* Images.xcassets */,
 				3C20A08318C0E5880021F4C0 /* Supporting Files */,
 			);
-			path = "See Me Colour";
+			path = "SeeMeColour";
 			sourceTree = "<group>";
 		};
 		3C20A08318C0E5880021F4C0 /* Supporting Files */ = {
@@ -208,27 +208,27 @@
 			children = (
 				3C1FBF0318C4C72100697273 /* Sounds */,
 				3C20A0BA18C0E9940021F4C0 /* Images */,
-				3C20A08418C0E5880021F4C0 /* See Me Colour-Info.plist */,
+				3C20A08418C0E5880021F4C0 /* SeeMeColour-Info.plist */,
 				3C20A08518C0E5880021F4C0 /* InfoPlist.strings */,
 				3C20A08818C0E5880021F4C0 /* main.m */,
-				3C20A08A18C0E5880021F4C0 /* See Me Colour-Prefix.pch */,
+				3C20A08A18C0E5880021F4C0 /* SeeMeColour-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		3C20A0A118C0E5880021F4C0 /* See Me ColourTests */ = {
+		3C20A0A118C0E5880021F4C0 /* SeeMeColourTests */ = {
 			isa = PBXGroup;
 			children = (
-				3C20A0A718C0E5880021F4C0 /* See_Me_ColourTests.m */,
+				3C20A0A718C0E5880021F4C0 /* SeeMeColourTests.m */,
 				3C20A0A218C0E5880021F4C0 /* Supporting Files */,
 			);
-			path = "See Me ColourTests";
+			path = "SeeMeColourTests";
 			sourceTree = "<group>";
 		};
 		3C20A0A218C0E5880021F4C0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				3C20A0A318C0E5880021F4C0 /* See Me ColourTests-Info.plist */,
+				3C20A0A318C0E5880021F4C0 /* SeeMeColourTests-Info.plist */,
 				3C20A0A418C0E5880021F4C0 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -262,9 +262,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3C20A07818C0E5880021F4C0 /* See Me Colour */ = {
+		3C20A07818C0E5880021F4C0 /* SeeMeColour */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3C20A0AB18C0E5880021F4C0 /* Build configuration list for PBXNativeTarget "See Me Colour" */;
+			buildConfigurationList = 3C20A0AB18C0E5880021F4C0 /* Build configuration list for PBXNativeTarget "SeeMeColour" */;
 			buildPhases = (
 				3C20A07518C0E5880021F4C0 /* Sources */,
 				3C20A07618C0E5880021F4C0 /* Frameworks */,
@@ -274,14 +274,14 @@
 			);
 			dependencies = (
 			);
-			name = "See Me Colour";
-			productName = "See Me Colour";
-			productReference = 3C20A07918C0E5880021F4C0 /* See Me Colour.app */;
+			name = "SeeMeColour";
+			productName = "SeeMeColour";
+			productReference = 3C20A07918C0E5880021F4C0 /* SeeMeColour.app */;
 			productType = "com.apple.product-type.application";
 		};
-		3C20A09918C0E5880021F4C0 /* See Me ColourTests */ = {
+		3C20A09918C0E5880021F4C0 /* SeeMeColourTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3C20A0AE18C0E5880021F4C0 /* Build configuration list for PBXNativeTarget "See Me ColourTests" */;
+			buildConfigurationList = 3C20A0AE18C0E5880021F4C0 /* Build configuration list for PBXNativeTarget "SeeMeColourTests" */;
 			buildPhases = (
 				3C20A09618C0E5880021F4C0 /* Sources */,
 				3C20A09718C0E5880021F4C0 /* Frameworks */,
@@ -292,9 +292,9 @@
 			dependencies = (
 				3C20A0A018C0E5880021F4C0 /* PBXTargetDependency */,
 			);
-			name = "See Me ColourTests";
-			productName = "See Me ColourTests";
-			productReference = 3C20A09A18C0E5880021F4C0 /* See Me ColourTests.xctest */;
+			name = "SeeMeColourTests";
+			productName = "SeeMeColourTests";
+			productReference = 3C20A09A18C0E5880021F4C0 /* SeeMeColourTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -314,7 +314,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3C20A07418C0E5870021F4C0 /* Build configuration list for PBXProject "See Me Colour" */;
+			buildConfigurationList = 3C20A07418C0E5870021F4C0 /* Build configuration list for PBXProject "SeeMeColour" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -327,8 +327,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3C20A07818C0E5880021F4C0 /* See Me Colour */,
-				3C20A09918C0E5880021F4C0 /* See Me ColourTests */,
+				3C20A07818C0E5880021F4C0 /* SeeMeColour */,
+				3C20A09918C0E5880021F4C0 /* SeeMeColourTests */,
 			);
 		};
 /* End PBXProject section */
@@ -398,7 +398,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3C20A0A818C0E5880021F4C0 /* See_Me_ColourTests.m in Sources */,
+				3C20A0A818C0E5880021F4C0 /* SeeMeColourTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,7 +407,7 @@
 /* Begin PBXTargetDependency section */
 		3C20A0A018C0E5880021F4C0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3C20A07818C0E5880021F4C0 /* See Me Colour */;
+			target = 3C20A07818C0E5880021F4C0 /* SeeMeColour */;
 			targetProxy = 3C20A09F18C0E5880021F4C0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -519,8 +519,8 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "See Me Colour/See Me Colour-Prefix.pch";
-				INFOPLIST_FILE = "See Me Colour/See Me Colour-Info.plist";
+				GCC_PREFIX_HEADER = "SeeMeColour/SeeMeColour-Prefix.pch";
+				INFOPLIST_FILE = "SeeMeColour/SeeMeColour-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -533,8 +533,8 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "See Me Colour/See Me Colour-Prefix.pch";
-				INFOPLIST_FILE = "See Me Colour/See Me Colour-Info.plist";
+				GCC_PREFIX_HEADER = "SeeMeColour/SeeMeColour-Prefix.pch";
+				INFOPLIST_FILE = "SeeMeColour/SeeMeColour-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -543,19 +543,19 @@
 		3C20A0AF18C0E5880021F4C0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/See Me Colour.app/See Me Colour";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SeeMeColour.app/SeeMeColour";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "See Me Colour/See Me Colour-Prefix.pch";
+				GCC_PREFIX_HEADER = "SeeMeColour/SeeMeColour-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "See Me ColourTests/See Me ColourTests-Info.plist";
+				INFOPLIST_FILE = "SeeMeColourTests/SeeMeColourTests-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
@@ -565,15 +565,15 @@
 		3C20A0B018C0E5880021F4C0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/See Me Colour.app/See Me Colour";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SeeMeColour.app/SeeMeColour";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "See Me Colour/See Me Colour-Prefix.pch";
-				INFOPLIST_FILE = "See Me ColourTests/See Me ColourTests-Info.plist";
+				GCC_PREFIX_HEADER = "SeeMeColour/SeeMeColour-Prefix.pch";
+				INFOPLIST_FILE = "SeeMeColourTests/SeeMeColourTests-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
@@ -583,7 +583,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3C20A07418C0E5870021F4C0 /* Build configuration list for PBXProject "See Me Colour" */ = {
+		3C20A07418C0E5870021F4C0 /* Build configuration list for PBXProject "SeeMeColour" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3C20A0A918C0E5880021F4C0 /* Debug */,
@@ -592,7 +592,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3C20A0AB18C0E5880021F4C0 /* Build configuration list for PBXNativeTarget "See Me Colour" */ = {
+		3C20A0AB18C0E5880021F4C0 /* Build configuration list for PBXNativeTarget "SeeMeColour" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3C20A0AC18C0E5880021F4C0 /* Debug */,
@@ -601,7 +601,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3C20A0AE18C0E5880021F4C0 /* Build configuration list for PBXNativeTarget "See Me ColourTests" */ = {
+		3C20A0AE18C0E5880021F4C0 /* Build configuration list for PBXNativeTarget "SeeMeColourTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3C20A0AF18C0E5880021F4C0 /* Debug */,

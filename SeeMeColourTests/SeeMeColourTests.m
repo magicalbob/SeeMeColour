@@ -1,6 +1,6 @@
 //
-//  See_Me_ColourTests.m
-//  See Me ColourTests
+//  SeeMeColourTests.m
+//  SeeMeColourTests
 //
 //  Created by Ian on 28/02/2014.
 //  Copyright (c) 2014 Ian. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface See_Me_ColourTests : XCTestCase
+@interface SeeMeColourTests : XCTestCase
 
 @end
 
-@implementation See_Me_ColourTests
+@implementation SeeMeColourTests
 
 - (void)setUp
 {
